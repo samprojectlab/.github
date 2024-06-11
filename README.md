@@ -1,4 +1,4 @@
-# Welcome to SamProjectLab .github Repository
+# Welcome to SamProject .github Repository
 
 This repository contains default community health files for SamProjectLab projects on GitHub. These files help us maintain a consistent and welcoming community.
 
