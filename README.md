@@ -4,5 +4,5 @@ This repository contains default community health files for SamProjectLab projec
 
 ## Contact
 - [Website](https://www.samprojectlab.github.io)
-- [Email](mailto:cpmachado@protonmail.com)
+- [Email](mailto:moraissamuel@gmail.com)
 
